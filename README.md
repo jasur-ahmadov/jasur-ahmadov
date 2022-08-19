@@ -32,8 +32,8 @@ Hungry to learn new technologies, improve technical skills and apply them in sof
 Email adress: casur.ahmadov@khazar.org
 
 <a href="https://github.com/jasur-ahmadov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradisgandar&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradisgandar&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasur-ahmadov)
