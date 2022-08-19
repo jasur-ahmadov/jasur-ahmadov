@@ -33,6 +33,6 @@ Email adress: casur.ahmadov@khazar.org
 
 <a href="https://github.com/jasur-ahmadov"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-ahmadov)](https://github.com/jasur-ahmadov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkhanrasullu)](https://github.com/sarkhanrasullu/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasur-ahmadov)
