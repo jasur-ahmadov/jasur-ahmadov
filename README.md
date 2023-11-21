@@ -1,8 +1,8 @@
 ### Hi there, I am Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🔭 I’m currently working on a web application named Course Management
+- 🔭 I’m currently working on a web application named Library Management
 - 🌱 I’m currently learning Spring Security
-- 🤔 I’m looking for help with Unit Testing
+- 🤔 I’m looking for help with Microservices
 - 💬 Ask me about Java or any tech-related stuff
 - 👯 I’m looking to collaborate on Linkedin
 - 📫 How to reach me: See the links below
@@ -33,7 +33,7 @@ Email adress: casur.ahmadov@khazar.org
 
 <a href="https://github.com/jasur-ahmadov">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradisgandar&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-ahmadov&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasur-ahmadov)
