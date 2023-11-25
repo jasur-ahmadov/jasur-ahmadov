@@ -35,5 +35,3 @@ Email adress: casur.ahmadov@khazar.org
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-ahmadov&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
 </a>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasur-ahmadov)
