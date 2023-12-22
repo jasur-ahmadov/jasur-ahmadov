@@ -1,6 +1,6 @@
 ### Hi there, I am Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🔭 I’m currently working on a web application named Library Management
+- 🔭 I’m currently working on a web application named ResumeDbApp
 - 🌱 I’m currently learning Spring Security
 - 🤔 I’m looking for help with Microservices
 - 💬 Ask me about Java or any tech-related stuff
