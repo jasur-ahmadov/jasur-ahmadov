@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a web application named Resume
 - 🌱 I’m currently learning Spring Security
 - 🤔 I’m looking for help with Microservices
-- 💬 Ask me about Java or any tech-related stuff
+- 💬 Ask me about Java or any tech-related stuf
 - 👯 I’m looking to collaborate on Linkedin
 - 📫 How to reach me: See the links below
 - 😄 Pronouns: He/His
