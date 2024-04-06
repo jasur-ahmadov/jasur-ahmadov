@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Linkedin
 - 📫 How to reach me: See the links below
 - 😄 Pronouns: He/His
-<h3 align="center">Social Networks</h3>
+<h3 align="center"> Social Networks </h3>
 
 <p align="center">
   
