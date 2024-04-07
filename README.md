@@ -1,4 +1,4 @@
-### Hi there, I'm Jasur Ahmado <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+### Hi there, I'm Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 - 🔭 I’m currently working on a web application named Resume
 - 🌱 I’m currently learning Spring Security
