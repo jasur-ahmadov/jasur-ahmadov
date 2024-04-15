@@ -29,8 +29,6 @@ I am a software developer, growing software engineer :)
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
-Email adress: casur.ahmadov@khazar.org
-
 <a href="https://github.com/jasur-ahmadov">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-ahmadov&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
