@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🔭 I’m currently working on a web application named ms-card-messages-history
+- 🔭 I’m currently working on an enterprise application
 - 🌱 I’m currently learning Microservices
 - 🤔 I’m looking for help with java AI technologies
 - 💬 Ask me about java or any tech-related stuff
