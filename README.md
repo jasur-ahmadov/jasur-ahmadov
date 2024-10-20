@@ -1,10 +1,10 @@
 ### Hi there, I'm Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 - 🔭 I’m currently working on an enterprise application
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently learning microservices patterns
 - 🤔 I’m looking for help with java AI technologies
 - 💬 Ask me about java or any tech-related stuff
-- 👯 I’m looking to collaborate on Linkedin
+- 👯 I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: See the links below
 - 😄 Pronouns: He/His
 <h3 align="center"> Social Networks </h3>
@@ -25,7 +25,7 @@
 
 </p>
 
-I am a software developer, growing software engineer :)
+I am a growing software engineer :)
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
