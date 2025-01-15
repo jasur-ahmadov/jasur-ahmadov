@@ -1,4 +1,4 @@
-### Hi there, I'm Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"
+### Hi there, I'm Jasur Ahmadov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 - 🔭 I’m currently working on an enterprise application
 - 🌱 I’m currently learning microservices patterns
