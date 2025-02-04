@@ -6,7 +6,7 @@
 - 💬 Ask me about java or any tech-related stuff
 - 👯 I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: See the links below
-- 😄 Pronouns: He/His
+- 😄 Pronouns: he/his
 <h3 align="center"> Social Networks </h3>
 
 <p align="center">
