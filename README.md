@@ -16,9 +16,9 @@
 </a>  
 
 <a href="https://www.linkedin.com/in/jasur-ahmadov/">
-<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjasur-ahmadovli-23500b198%2F">
-</a> 
-  
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white">
+</a>
+
 <a href="https://www.instagram.com/jasur.ahmadoff/">
 <img alt="Instagram URL" src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjasur-ahmadovli-23500b198%2F">
 </a>
@@ -28,8 +28,8 @@
 I am a growing software engineer who is hungry to learn new technologies, improve technical skills and apply them in software development.
 
 <a href="https://github.com/jasur-ahmadov">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jasur-ahmadov&zsh-theme&show_icons=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasur-ahmadov&hide=groovy&langs_count=4&zsh-theme&layout=compact" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasur-ahmadov&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jasur-ahmadov&hide=groovy&langs_count=4&layout=compact&theme=tokyonight" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
