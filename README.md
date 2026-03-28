@@ -13,10 +13,6 @@
   
 <a href="https://www.facebook.com/jasur.ahmadoff">
 <img alt="Facebook URL" src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjasur-ahmadov%2F">
-</a>  
-
-<a href="https://www.linkedin.com/in/jasur-ahmadov/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/jasur.ahmadoff/">
