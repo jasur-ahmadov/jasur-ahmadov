@@ -16,7 +16,7 @@
 </a>  
 
 <a href="https://www.linkedin.com/in/jasur-ahmadov/">
-  <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjasur-ahmadov%2F">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/jasur.ahmadoff/">
